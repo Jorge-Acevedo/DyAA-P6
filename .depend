@@ -1,0 +1,2 @@
+main.o: main.cpp include/competicion.h
+competicion.o: src/competicion.cpp src/../include/competicion.h
